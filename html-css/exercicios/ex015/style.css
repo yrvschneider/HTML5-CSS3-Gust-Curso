@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=La+Belle+Aurore&family=Roboto+Mono:wght@400;600&display=swap');
+
+body {
+    background-color: aqua;
+    font-family: 'Inter', sans-serif;
+}
+h1 {
+    color: darkblue;
+    background-color: aquamarine;
+}
+h2 {
+    color: brown;
+}
+
+p {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: violet;
+}
